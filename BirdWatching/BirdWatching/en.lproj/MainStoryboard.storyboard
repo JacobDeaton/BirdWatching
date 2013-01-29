@@ -167,7 +167,8 @@
                     <navigationItem key="navigationItem" id="yhY-z2-TV2"/>
                     <connections>
                         <outlet property="birdNameLabel" destination="XOM-rp-s0I" id="FxI-5v-wFE"/>
-                        <outlet property="locationLabel" destination="r5P-jx-1DT" id="Ykk-Y7-Arp"/>
+                        <outlet property="dateLabel" destination="r5P-jx-1DT" id="Kfn-WO-nfT"/>
+                        <outlet property="locationLabel" destination="f3R-w7-fNM" id="WZH-os-Gda"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DMq-dI-MM5" userLabel="First Responder" sceneMemberID="firstResponder"/>
