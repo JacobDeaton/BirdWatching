@@ -15,7 +15,7 @@
 @end
 
 
-@implementation BirdSightingDataController
+@implementation BirdSightingDataController;
 
 
 - (void)initializeDefaultDataList {

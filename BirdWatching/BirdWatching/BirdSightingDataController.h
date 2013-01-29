@@ -12,7 +12,7 @@
 @interface BirdSightingDataController : NSObject
 
 @property (nonatomic, copy) NSMutableArray *masterBirdSightingList;
-- (NSUInteger) countofList;
+- (NSUInteger) countOfList;
 - (BirdSighting *)objectInListAtIndex:(NSUInteger)theIndex;
 - (void)addBirdSightingWithSighting:(BirdSighting *)sighting;
 
